@@ -36,6 +36,8 @@ public class UI {
         message = text;
         messageOn = true;
     }
+
+    ///find them now////
     
     public void draw(Graphics2D g2){
         
