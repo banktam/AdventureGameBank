@@ -13,7 +13,7 @@ import object.SuperObject;
 import tile.TileManager;
 
 public class GamePanel extends JPanel implements Runnable{
-    // SCREEN SETTINGS
+    // SCREEN SETTINGS Screening nnnnj
     final int originalTileSize =16; // 16x16 tile
     final int scale = 3;
     

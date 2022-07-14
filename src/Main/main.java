@@ -9,6 +9,8 @@ public class main {
         window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         window.setResizable(false);
         window.setTitle("2D Adventure in the Forest");
+
+        //hello world
         
         
         GamePanel gamePanel = new GamePanel();
