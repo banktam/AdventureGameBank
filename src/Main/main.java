@@ -10,8 +10,6 @@ public class main {
         window.setResizable(false);
         window.setTitle("2D Adventure in the Forest");
 
-        //hello world
-        // hello mother fucker
         
         GamePanel gamePanel = new GamePanel();
         window.add(gamePanel);
